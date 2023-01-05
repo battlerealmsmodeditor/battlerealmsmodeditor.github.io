@@ -1,5 +1,4 @@
-
-[<img src="https://github.com/KravitzMC/KravitzMC.github.io/blob/main/brzebanner.jpg?raw=true">](https://github.com/KravitzMC/KravitzMC.github.io/blob/main/brzebanner.jpg)
+[<img src="https://github.com/KravitzMC/KravitzMC.github.io/blob/main/brzelogo.png?raw=true">](https://store.steampowered.com/app/1025600/Battle_Realms_Zen_Edition/)
 
 # Battle Realms Data Editor by SITUVN   
 
