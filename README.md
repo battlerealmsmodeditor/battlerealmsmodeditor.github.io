@@ -1,4 +1,4 @@
-# 🗃️ Battle Realms Data Editor by SITUVN
+# Battle Realms Data Editor by SITUVN
 
 ### This Project has no logner. becuase we making new MOD tool for version 1.58 update <br>however you can use BR Data Editor in v1.58 at some feature so long as all change.
 
