@@ -4,10 +4,7 @@
 
 # [>> Download Here<<](https://github.com/KravitzMC/KravitzMC.github.io/raw/main/Battle%20Realms%20Data%20Editor%20X1.0.7z)
 
-An open source to edit Battle Realms from DAT file (Powered by SITUVN)
-
 ![screenshot](https://github.com/KravitzMC/KravitzMC.github.io/blob/main/screensample.png?raw=true")
-
 
 ## Support to Edit Battle Realms from DAT file
 
