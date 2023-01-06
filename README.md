@@ -14,10 +14,8 @@ This Project has no logner. becuase we making new MOD tool for version 1.58 upda
 
 ### [📥 Download x64-x86](https://github.com/KravitzMC/KravitzMC.github.io/raw/main/Battle%20Realms%20Data%20Editor%20X1.0.7z)<br>
 
-
 ![screenshot](https://github.com/KravitzMC/KravitzMC.github.io/blob/main/screensample.png?raw=true")
 
-<br>
 <div align="center">
  
   [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)<br>
