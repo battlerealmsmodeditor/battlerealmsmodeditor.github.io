@@ -12,7 +12,7 @@ This Project has no logner. becuase we making new MOD tool for version 1.58 upda
 
 > ##### Operating System Support : Windows 7 / 8 / 8.1 / 10 / 11
 
-### [📥 Download x64-x86](https://github.com/KravitzMC/KravitzMC.github.io/raw/main/Battle%20Realms%20Data%20Editor%20X1.0.7z)<br>
+### [📥 Download x64-x86 (X1.0)](https://github.com/KravitzMC/KravitzMC.github.io/raw/main/Battle%20Realms%20Data%20Editor%20X1.0.7z)<br>
 
 ![screenshot](https://github.com/KravitzMC/KravitzMC.github.io/blob/main/screensample.png?raw=true")
 
