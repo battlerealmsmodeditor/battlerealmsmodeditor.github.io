@@ -2,8 +2,10 @@
 
 # Battle Realms Data Editor by SITUVN   
 
+Battle Realms Data Editor is .dat files modification tool. which store game data such as  building unit statistics/ costs. Some editors also provide a graphical user interface. making it easier to navigate and modify the game data.
+
 > __Warning__ 
-This Project has no logner. becuase we making new MOD tool for version 1.58 update <br>however you can use BR Data Editor in v1.58 at some feature so long as all change.
+This Project has no logner. becuase we making new MOD tool for version 1.58 update <br>however you can use BR Data Editor in v1.58.1 at some feature so long as all change.
 
 ### Support to Edit Battle Realms from DAT file
 
