@@ -16,9 +16,9 @@ This Project has no logner. becuase we making new MOD tool for version 1.58.1 up
 
 ### [📥 Download x64-x86 (X1.0)](https://github.com/battlerealmsmodeditor/battlerealmsmodeditor.github.io/releases/download/Release/Battle.Realms.Data.Editor.X1.0.7z)<br>
 
-![screenshot](https://github.com/KravitzMC/KravitzMC.github.io/blob/main/screensample.png?raw=true") 
-
 <img src="https://raw.githubusercontent.com/battlerealmsmodeditor/battlerealmsmodeditor.github.io/main/scrreenhotmodgame.png">
+
+![screenshot](https://github.com/KravitzMC/KravitzMC.github.io/blob/main/screensample.png?raw=true") 
 
 [![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/byncnd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
