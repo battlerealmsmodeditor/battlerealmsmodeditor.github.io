@@ -20,6 +20,8 @@ This Project has no logner. becuase we making new MOD tool for version 1.58.1 up
  
 <img src="https://raw.githubusercontent.com/battlerealmsmodeditor/battlerealmsmodeditor.github.io/main/scrreenhotmodgame.png">
 
+[![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/byncnd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 Copyright © 2016-2023 SITUVN
 
 
