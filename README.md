@@ -18,9 +18,7 @@ This Project has no logner. becuase we making new MOD tool for version 1.58.1 up
 
 ![screenshot](https://github.com/KravitzMC/KravitzMC.github.io/blob/main/screensample.png?raw=true")
  
-<img src="https://raw.githubusercontent.com/battlerealmsmodeditor/battlerealmsmodeditor.github.io/main/fotor_2023-1-23_13_2_35.png">
-
-[<img src="https://raw.githubusercontent.com/battlerealmsmodeditor/battlerealmsmodeditor.github.io/main/screenshot1.png)
+<img src="https://raw.githubusercontent.com/battlerealmsmodeditor/battlerealmsmodeditor.github.io/main/screenshot1.png">
 
 Copyright © 2016-2023 SITUVN
 
